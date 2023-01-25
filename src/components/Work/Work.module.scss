@@ -1,0 +1,72 @@
+@import "../../styles/contants.scss";
+
+.wrapper {
+  color: rgb(220, 222, 224);
+  background: rgb(7, 30, 74);
+
+    .container {
+        flex-direction: column;
+        gap: 2rem;
+
+        .experiences {
+            width: 100%;
+            gap: 1.4rem;
+            position: relative;
+            flex-direction: column;
+
+
+            .exp {
+                justify-content: space-between;
+                width: 100%;
+                align-items: flex-start;
+                line-height: 40px;
+                
+                >div {
+                    flex: 1;
+                }
+                .role {
+                    margin-left: 2rem;
+                }
+            }
+
+            .progressbar {
+                gap: 1.4rem;
+                display: flex;
+                height: 100%;
+                position: absolute;
+                flex-direction: column;
+                left: 45%;
+
+                .line {
+                    position: absolute;
+                    width: 2px;
+                    background-position: right;
+                    background-size: 2px 30px;
+                    background-repeat: repeat-y;
+                    // background-image: linear-gradient(black 33%, rgba(255,255,255, 0) 0%);
+                    height: 92%;
+                    left: 48%;
+                    z-index: 1;
+                    border-radius: 5px;
+                    
+                }
+                >div {
+                    flex: 1;
+                    padding-top: .8rem;
+                    z-index: 2;
+
+                    .circle {
+                
+                            width: 30px;
+                            height: 60px;
+                            /* border-radius: horziontal values / vertical values */
+                            border-radius: 50px 50px / 20px 20px;
+                            background: rgb(51, 51, 51);
+                          
+                    }
+                }
+            }
+        }
+    }
+    
+}
