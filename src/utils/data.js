@@ -1,7 +1,7 @@
 import { MdOutlinePets } from "react-icons/md";
 import { MdOutlineWater } from "react-icons/md";
 import {MdOutlineVolunteerActivism} from "react-icons/md";
-// import {img} from "../assets/img";
+
 
 
 export const projectExperience = [
@@ -12,6 +12,7 @@ export const projectExperience = [
   
     icon: MdOutlinePets,
     bg: "#7818e2",
+  
   },
   {
     // community
@@ -19,6 +20,7 @@ export const projectExperience = [
     projects: 5,
     icon: MdOutlineVolunteerActivism,
     bg: "#288113",
+  
   },
   {
     // Green

@@ -44,7 +44,7 @@ const Expertise = () => {
         <motion.div 
         variants={textVariant(0.4)}
         className={css.rightSide}>
-        <span className='primaryText'>How to Volunteer </span>
+        <span className='primaryText'>Would you like to Volunteer? </span>
         <p> Are you ready to give back? We got you! Choose what kind of voluteer work, you'd like to do.  Animal Volunteer, Comunity Volunteer, Earth and Water volunteer.
             A volunteer coach will connect with you to match you with your mission, schedule available dates, and answer any of your questions. Thank you for volunteering, this is humanity. Blessings to you! 
         </p>
