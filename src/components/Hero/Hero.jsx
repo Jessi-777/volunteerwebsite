@@ -24,7 +24,7 @@ const Hero = () => {
           <motion.span className='secondaryText' variants={fadeIn("left", "tween", 0.4, 1)}>
             {/*  */}
             <br />
-        Volunteering is an action of love and gratitude.  {""}
+        Did you know Volunteering towards helping humanity, animals, water, our beautiful planet is the act of pure gratitude? {""}
           </motion.span>
         </div>
 {/* END upper elements */}
@@ -36,14 +36,14 @@ const Hero = () => {
           className={css.person}>
             <motion.img 
             variants={slideIn("up", "tween", 0.2, 1.2 )}
-            src='./person.png' alt="" />
+            src='https://res.cloudinary.com/ninjagrvl/image/upload/c_scale,w_349/v1691113282/people-volunteering-donating-money_53876-66112_utua9i.avif' alt="" />
         </motion.div>
 
 {/* END person image element */}
 
 {/* START EMAIL */}
 <a className={css.email} href="mailto:angelworkengineering@gmail.com">
-    angelworkengineering@gmail.com
+    {/* thevolunteer.co */}
 </a>
 {/* END EMAIL */}
 

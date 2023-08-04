@@ -1,6 +1,7 @@
 import { MdOutlinePets } from "react-icons/md";
 import { MdOutlineWater } from "react-icons/md";
 import {MdOutlineVolunteerActivism} from "react-icons/md";
+// import {img} from "../assets/img";
 
 
 export const projectExperience = [
@@ -61,28 +62,28 @@ export const comments = [
     post: "Creative Manager",
     comment:
       "It felt really good to give back. I'm looking forward to my next experience. Thanks Volunteer.co!",
-    img: "./people1.png",
+    img: "/assets/people1.png",
   },
   {
     name: "Sir Games",
     post: "Ceo",
     comment:
       "I'm astonished how great it felt to give back. It doesn't compare to putting work in my office. It actually felt like therapy! Thank you Volunteer.co for a safe place to give back!",
-    img: "./people2.png",
+    img: "/assets/people2.png",
   },
   {
     name: "Kyani G",
     post: "Artist",
     comment:
       "I'm so happy to contribute my art work, painting a mural in my community. Thanks Volunteer.co I'll be back! ",
-    img: "./people3.png",
+    img: "/assets/people3.png",
   },
   {
     name: "Ricky Picacio",
     post: "Founder",
     comment:
       "Helping our mother earth was very fullfilling. What a wonderful experience to help. Thanks Volunteer.co! ",
-    img: "./people4.png",
+    img: "./assets/people4.png",
   },
   
 ];

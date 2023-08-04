@@ -5,7 +5,7 @@
     // background: #687cab;
     background: rgb(2, 2, 2);
     // background-color: transparent;
-    color: rgb(221, 226, 231);
+    color: rgb(242, 243, 245);
     font-size: 20px;
 
     .container {
@@ -27,7 +27,8 @@
                 padding: 2.5rem;
                 // background: #white;
                 gap: 2rem;
-                border: 1px solid $secondary-white;
+                border: 4px solid rgb(61, 103, 148);
+                // background-color: rgb(61, 103, 148);
                 transition: all 200ms ease-out;
 
                 &:hover {

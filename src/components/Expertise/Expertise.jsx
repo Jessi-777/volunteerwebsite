@@ -45,9 +45,8 @@ const Expertise = () => {
         variants={textVariant(0.4)}
         className={css.rightSide}>
         <span className='primaryText'>How can we help? </span>
-        <p> This is a passion project for my portfolio. I would love to see this idea come to life. 
-          The idea is, You will choose what kind of voluteer work, you'd like to do.  
-          Once, you confirm your quest. All you have to do is make room in your schedule to volunteer. Helping humanity and our beautiful planet is a blessing. 
+        <p> You are ready to give back? We got you! Choose what kind of voluteer work, you'd like to do.  
+          Once, you confirm your quest. Out team will match you with your mission and schedule your volunteer day! Helping humanity and our beautiful planet is a blessing. 
         </p>
         {HowDoIHelp.map((paragraph, i) => {
                 return (
