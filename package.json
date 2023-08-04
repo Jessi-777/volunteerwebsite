@@ -10,7 +10,7 @@
     "dev": "vite",
     "build": "vite build",
     "eject": "react-scripts eject",
-    "preview": "vite preview"
+    "preview": "vite preview --port 8080"
 
     
   },
