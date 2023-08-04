@@ -8,7 +8,7 @@ export const projectExperience = [
   {
     // animals
     name: "Animal Volunteering",
-    projects: 6,
+    projects: 369,
   
     icon: MdOutlinePets,
     bg: "#7818e2",
@@ -17,15 +17,15 @@ export const projectExperience = [
   {
     // community
     name: "Community Volunteering",
-    projects: 5,
+    projects: 555,
     icon: MdOutlineVolunteerActivism,
     bg: "#288113",
   
   },
   {
-    // Green
+    // Earth and water
     name: "Earth, Water, Ocean, Lakes, Rivers, Volunteering",
-    projects: 5,
+    projects: 333,
     icon: MdOutlineWater,
     bg: "#1864e2",
   },

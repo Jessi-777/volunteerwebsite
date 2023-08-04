@@ -19,7 +19,7 @@ const Hero = () => {
           variants={fadeIn("right", "tween", 0.1, 1)}
           
           className='primaryText'>
-            Hi, <br /> Welcome to Volunteer.co
+            Hi, <br /> Welcome to our Non-Profit THEVOLUNTEER.CO 
           </motion.span>
           <motion.span className='secondaryText' variants={fadeIn("left", "tween", 0.4, 1)}>
             {/*  */}
