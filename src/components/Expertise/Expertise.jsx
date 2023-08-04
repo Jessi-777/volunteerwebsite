@@ -64,7 +64,7 @@ const Expertise = () => {
             </div>
 
             <div className={`flexCenter ${css.stat}`}>
-                <span className='primaryText'>Let's go! </span>
+                <span className='primaryText'>Everyone can be great, because everyone can serve. - Martin Luther King</span>
                 <span className='secondaryText'></span>
             </div>
           </div>
