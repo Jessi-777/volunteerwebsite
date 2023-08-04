@@ -27,9 +27,9 @@ const Portfolio = () => {
 
 
         <div className={`flexCenter ${css.showCase}`}>
-            <motion.img variants={fadeIn("up", "tween", .5, .6)} src="/assets/showCase1.png" alt="project" />
-            <motion.img variants={fadeIn("up", "tween", .7, .6)} src="/assets/showCase2.png" alt="project" />
-            <motion.img variants={fadeIn("up", "tween", .9, .6)} src="/assets/showCase3.png" alt="project" />
+            <motion.img variants={fadeIn("up", "tween", .5, .6)} src="https://res.cloudinary.com/ninjagrvl/image/upload/v1691125670/showCase1_ty6qil.jpg" alt="project" />
+            <motion.img variants={fadeIn("up", "tween", .7, .6)} src="https://res.cloudinary.com/ninjagrvl/image/upload/v1691125673/showCase2_ney3lo.png" alt="project" />
+            <motion.img variants={fadeIn("up", "tween", .9, .6)} src="https://res.cloudinary.com/ninjagrvl/image/upload/v1691125680/showCase3_gih3zn.png" alt="project" />
         </div>
       </div>
     </motion.section>

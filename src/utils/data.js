@@ -62,28 +62,28 @@ export const comments = [
     post: "Creative Manager",
     comment:
       "It felt really good to give back. I'm looking forward to my next experience. Thanks Volunteer.co!",
-    img: "/assets/people1.png",
+    img: "https://res.cloudinary.com/ninjagrvl/image/upload/v1691126090/people1_omm2kn.jpg",
   },
   {
     name: "Sir Games",
-    post: "Ceo",
+    post: "Artist",
     comment:
       "I'm astonished how great it felt to give back. It doesn't compare to putting work in my office. It actually felt like therapy! Thank you Volunteer.co for a safe place to give back!",
-    img: "/assets/people2.png",
+    img: "https://res.cloudinary.com/ninjagrvl/image/upload/v1691126094/people2_oe7bv5.jpg",
   },
   {
     name: "Kyani G",
-    post: "Artist",
+    post: "Founder",
     comment:
       "I'm so happy to contribute my art work, painting a mural in my community. Thanks Volunteer.co I'll be back! ",
-    img: "/assets/people3.png",
+    img: "https://res.cloudinary.com/ninjagrvl/image/upload/v1691126099/people3_mxszvj.jpg",
   },
   {
     name: "Ricky Picacio",
     post: "Founder",
     comment:
       "Helping our mother earth was very fullfilling. What a wonderful experience to help. Thanks Volunteer.co! ",
-    img: "./assets/people4.png",
+    img: "https://res.cloudinary.com/ninjagrvl/image/upload/v1691126100/people4_ovz0r3.jpg",
   },
   
 ];
