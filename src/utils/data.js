@@ -70,7 +70,7 @@ export const comments = [
     name: "Sir Games",
     post: "Artist",
     comment:
-      "I'm astonished how great it felt to volunteer. It was actually therapeudic. Thank you Volunteer.co for a safe place to give back! I am in full gratitude for this experience",
+      "I'm astonished how great it felt to volunteer. It was actually therapeudic. Thank you Volunteer.co for a safe place to give back! I am in full gratitude for this experience.",
     img: "https://res.cloudinary.com/ninjagrvl/image/upload/v1691126094/people2_oe7bv5.jpg",
   },
   {
