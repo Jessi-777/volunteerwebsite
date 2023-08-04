@@ -7,7 +7,7 @@ import {MdOutlineVolunteerActivism} from "react-icons/md";
 export const projectExperience = [
   {
     // animals
-    name: "Animal Volunteering",
+    name: "Animal Volunteering Service",
     projects: 369,
   
     icon: MdOutlinePets,
@@ -16,7 +16,7 @@ export const projectExperience = [
   },
   {
     // community
-    name: "Community Volunteering",
+    name: "Community Volunteering Service",
     projects: 555,
     icon: MdOutlineVolunteerActivism,
     bg: "#288113",
@@ -24,7 +24,7 @@ export const projectExperience = [
   },
   {
     // Earth and water
-    name: "Earth, Water, Ocean, Lakes, Rivers, Volunteering",
+    name: "Earth, Water, Ocean, Lakes, Rivers, Volunteering Service",
     projects: 333,
     icon: MdOutlineWater,
     bg: "#1864e2",
