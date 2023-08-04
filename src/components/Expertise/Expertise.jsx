@@ -46,7 +46,7 @@ const Expertise = () => {
         className={css.rightSide}>
         <span className='primaryText'>How can we help? </span>
         <p> You are ready to give back? We got you! Choose what kind of voluteer work, you'd like to do.  
-          Once, you confirm your quest. Out team will match you with your mission and schedule your volunteer day! Helping humanity and our beautiful planet is a blessing. 
+          Once, you confirm your quest. A volunteer coach will match you with your mission, schedule available dates for your trip. Thank you for volunteering. Blessings to you! 
         </p>
         {HowDoIHelp.map((paragraph, i) => {
                 return (
