@@ -23,8 +23,9 @@ const Hero = () => {
           </motion.span>
           <motion.span className='secondaryText' variants={fadeIn("left", "tween", 0.4, 1)}>
             {/*  */}
+            Helping animals communities, and our beautiful planet is the act of pure gratitude. {""}
+              
             <br />
-        Helping animals, communities, and our beautiful planet is the act of pure gratitude. {""}
           </motion.span>
         </div>
 {/* END upper elements */}

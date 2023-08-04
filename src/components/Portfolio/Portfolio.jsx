@@ -19,8 +19,8 @@ const Portfolio = () => {
         
         <motion.div variants={textVariant(.4)} className={`flexCenter ${css.heading}`}>
           <div>
-            <span className="primaryText"> Our Volunteer Experience</span>
-            <p style={{marginTop: "10px"}}>Animal, Commmunity and Planet Volunteering.</p>
+            <span className="primaryText"> Our fullfilling Volunteer Experiences</span>
+            <p style={{marginTop: "10px"}}>Animal, Commmunity and Planet Volunteer work.</p>
           </div>
           {/* <span className="secondaryText">Explore More Work</span> */}
        </motion.div>
